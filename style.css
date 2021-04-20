@@ -115,6 +115,7 @@ padding: 5px 10px;
 
 .newbox {
   position: center;
+  height: 75px;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
